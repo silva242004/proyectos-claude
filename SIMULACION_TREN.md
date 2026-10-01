@@ -1,5 +1,9 @@
 # Simulación del Tren de Alta Velocidad Tokio-Osaka (N700S Shinkansen)
 
+## Prompt Inicial
+
+> Haz una simulación del tren de alta velocidad entre Tokio y Osaka con transparencias y detalle en 3d a nivel profesional con motion graphics incluye detalles de ingeniería
+
 ## Resumen Ejecutivo
 
 Simulación interactiva 3D en tiempo real del tren N700S Shinkansen con transparencias, detalles de ingeniería a nivel profesional y motion graphics. La simulación reproduce el viaje completo entre Tokio y Osaka (~2h 20min) con física de movimiento, sistemas de potencia y visualización de componentes técnicos.
